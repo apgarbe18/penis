@@ -1,0 +1,21 @@
+Spawncode: CAPRICELEO- Uses handling file- police2
+Top Speed No Upgrades-150 Top speed upgrades:175
+
+Spawncode: 18charger- Uses handling file- police 2
+Top speed no Upgrades-170 Top speed Upgrades: 175
+
+Spawncode: f150offpat- Uses handling file-bcso 2
+Top speed no upgrades:140 Top speed upgrades:160
+
+Spawncode: PLcamaro- uses handling file- police 2
+Top speed no upgrades:160 Top speed upgrades:175
+
+Spawncode 16exp uses handling file- fpiu
+Top speed no upgrades:140 Top speeds upgrades: 168
+
+ Spawncode 1200RT uses handling file-bcso 3
+Top speed no upgrades:155 Top speed upgrades-190
+
+Spawncode police 9 uses handling file- police2-Crown Vic
+Top speed no upgrades:150 Top speed upgrades-170
+
